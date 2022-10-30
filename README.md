@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sudip</h1>
-<h4 align="center">a developer an also a student at Jadavpur University, see my <a href="[https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf](https://drive.google.com/file/d/1myckpQvEluq-6e7x4cK06Dj2dcwXp27J/view?usp=sharing)" target="_blank">resume</a> for more</h4>
+<h4 align="center">I'm a software developer and innovation is my passion , see my <a href="[https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf](https://drive.google.com/file/d/1myckpQvEluq-6e7x4cK06Dj2dcwXp27J/view?usp=sharing)" target="_blank">resume</a> for more</h4>
   <img align="center"
          src="https://profile-counter.glitch.me/imsudip/count.svg"
          alt="Visitor" height="30"/>
