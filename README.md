@@ -12,9 +12,9 @@
 
 ## About me
 
-- 🔭 I’m currently working on my Competitive Coding skills.
-- 🌱 I’m currently learning Algorithms.
-- 👯 I’m trying to maintain a streak on [Leetcode](https://leetcode.com/sudipghosh9333/).
+- 🔭 I’m currently exploring LLMs/LFMs, Vector Databases.
+- 🌱 I’m currently learning AI/ML and Web Frameworks (NEXTjs).
+<!-- - 👯 I’m trying to maintain a streak on [Leetcode](https://leetcode.com/sudipghosh9333/). -->
 - 💬 Ask me about Flutter and Dart.
 
 <details>
