@@ -39,15 +39,15 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 215.8 kB Used in GitHub's Storage 
+> 📦 215.7 kB Used in GitHub's Storage 
  > 
-> 🏆 162 Contributions in the Year 2023
+> 🏆 158 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -82,17 +82,14 @@ Sunday                   68 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 14 mins       ███████████████░░░░░░░░░░   60.01 % 
-HTML                     1 hr 59 mins        █████████░░░░░░░░░░░░░░░░   36.76 % 
-Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Svelte                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Python                   13 mins             ████████████████████████░   94.77 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -108,7 +105,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2023 01:54:17 UTC
+ Last Updated on 17/07/2023 01:59:06 UTC
 <!--END_SECTION:waka-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
