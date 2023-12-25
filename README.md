@@ -39,7 +39,7 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
@@ -82,13 +82,15 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     2 hrs 9 mins        ███████████████████████░░   92.18 % 
+XML                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -104,7 +106,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2023 01:18:09 UTC
+ Last Updated on 25/12/2023 01:17:02 UTC
 <!--END_SECTION:waka-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
