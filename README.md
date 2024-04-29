@@ -47,6 +47,8 @@
 
 > 📦 216.0 kB Used in GitHub's Storage 
  > 
+> 🏆 10 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 52 Public Repositories 
@@ -80,17 +82,13 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Dart                     2 hrs 40 mins       ████████████████░░░░░░░░░   62.24 % 
-Python                   39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-C++                      37 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-INI                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -106,7 +104,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2024 01:16:51 UTC
+ Last Updated on 29/04/2024 01:16:55 UTC
 <!--END_SECTION:waka-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
