@@ -82,14 +82,13 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      37 mins             ████████████████████░░░░░   81.48 % 
-Python                   8 mins              █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  46 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -105,7 +104,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2024 01:17:38 UTC
+ Last Updated on 13/05/2024 01:19:26 UTC
 <!--END_SECTION:waka-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
