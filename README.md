@@ -82,15 +82,13 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     2 hrs 27 mins       ██████████████░░░░░░░░░░░   57.28 % 
-JavaScript               1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   41.65 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 17 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -106,7 +104,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2024 01:27:57 UTC
+ Last Updated on 19/08/2024 01:27:44 UTC
 <!--END_SECTION:waka-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
