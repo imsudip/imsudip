@@ -47,6 +47,8 @@
 
 > 📦 216.1 kB Used in GitHub's Storage 
  > 
+> 🏆 27 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 53 Public Repositories 
@@ -80,15 +82,13 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   46 mins             ██████████████████████░░░   86.13 % 
-Text                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -104,7 +104,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2024 01:55:54 UTC
+ Last Updated on 23/12/2024 01:44:47 UTC
 <!--END_SECTION:waka-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
