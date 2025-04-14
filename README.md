@@ -80,17 +80,13 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 21 mins        █████████████░░░░░░░░░░░░   53.17 % 
-TypeScript               31 mins             █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-JSON                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-PowerShell               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -106,7 +102,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/04/2025 01:54:25 UTC
+ Last Updated on 14/04/2025 01:56:21 UTC
 <!--END_SECTION:waka-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
