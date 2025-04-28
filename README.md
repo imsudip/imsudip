@@ -39,15 +39,13 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 216.7 kB Used in GitHub's Storage 
- > 
-> 🏆 51 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -82,13 +80,17 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 mins              █████████████████████████   100.00 % 
+Python                   2 mins              ██████████░░░░░░░░░░░░░░░   39.15 % 
+Other                    2 mins              ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+JSON                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+JavaScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+RPMSpec                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -104,7 +106,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2025 01:58:52 UTC
+ Last Updated on 28/04/2025 01:58:21 UTC
 <!--END_SECTION:waka-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
