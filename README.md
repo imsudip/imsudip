@@ -47,7 +47,7 @@
 
 > 📦 216.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 51 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -82,17 +82,13 @@ Sunday                   73 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               21 mins             ██████████████████░░░░░░░   71.45 % 
-Markdown                 4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  30 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -108,7 +104,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2025 02:05:26 UTC
+ Last Updated on 09/06/2025 02:07:22 UTC
 <!--END_SECTION:waka-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
