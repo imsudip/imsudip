@@ -47,50 +47,12 @@
 
 > 📦 216.7 kB Used in GitHub's Storage 
  > 
-> 🏆 51 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 54 Public Repositories 
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-🌆 Daytime                451 commits         █████████░░░░░░░░░░░░░░░░   37.24 % 
-🌃 Evening                494 commits         ██████████░░░░░░░░░░░░░░░   40.79 % 
-🌙 Night                  164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Tuesday                  189 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Wednesday                196 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Thursday                 151 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Friday                   210 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Saturday                 233 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Sunday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -104,7 +66,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2025 02:08:41 UTC
+ Last Updated on 07/07/2025 02:09:21 UTC
 <!--END_SECTION:waka-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
