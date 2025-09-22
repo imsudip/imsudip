@@ -39,56 +39,20 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%203%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 217.7 kB Used in GitHub's Storage 
  > 
+> 🏆 54 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
-> 📜 55 Public Repositories 
+> 📜 56 Public Repositories 
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-🌆 Daytime                451 commits         █████████░░░░░░░░░░░░░░░░   37.21 % 
-🌃 Evening                495 commits         ██████████░░░░░░░░░░░░░░░   40.84 % 
-🌙 Night                  164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Tuesday                  189 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Wednesday                196 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Thursday                 152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Friday                   210 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Saturday                 233 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Sunday                   73 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -102,7 +66,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2025 01:56:49 UTC
+ Last Updated on 22/09/2025 01:58:05 UTC
 <!--END_SECTION:waka-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
