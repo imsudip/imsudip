@@ -82,17 +82,13 @@ Sunday                   74 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 20 mins        ████████████░░░░░░░░░░░░░   47.15 % 
-TypeScript               1 hr 8 mins         ██████████░░░░░░░░░░░░░░░   40.08 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 50 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -108,7 +104,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2025 02:09:47 UTC
+ Last Updated on 22/12/2025 02:11:19 UTC
 <!--END_SECTION:waka-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
