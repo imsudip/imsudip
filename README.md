@@ -39,15 +39,15 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2059%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.16%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 228.9 kB Used in GitHub's Storage 
  > 
-> 🏆 92 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -82,15 +82,13 @@ Sunday                   75 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   46 mins             ████████████████░░░░░░░░░   64.65 % 
-TypeScript               13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-JSON                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -106,7 +104,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2025 02:22:29 UTC
+ Last Updated on 05/01/2026 02:25:38 UTC
 <!--END_SECTION:waka-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
