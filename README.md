@@ -82,17 +82,13 @@ Sunday                   75 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 11 mins             ██████████░░░░░░░░░░░░░░░   38.27 % 
-JavaScript               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-TypeScript               4 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Python                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -108,7 +104,7 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/03/2026 02:57:22 UTC
+ Last Updated on 23/03/2026 02:49:20 UTC
 <!--END_SECTION:waka-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
