@@ -39,7 +39,7 @@
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-633%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.19%20million%20lines%20of%20code-blue?style=flat)
 
@@ -82,13 +82,17 @@ Sunday                   75 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    20 mins             █████████░░░░░░░░░░░░░░░░   36.77 % 
+TypeScript               17 mins             ████████░░░░░░░░░░░░░░░░░   31.16 % 
+JSON                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  45 mins             ████████████████████░░░░░   79.59 % 
+Unknown Editor           11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -104,7 +108,7 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2026 03:33:22 UTC
+ Last Updated on 20/04/2026 03:34:03 UTC
 <!--END_SECTION:waka-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
