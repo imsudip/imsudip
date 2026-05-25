@@ -39,6 +39,8 @@
 </details>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2040%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.19%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -53,6 +55,42 @@
  > 
 > 🔑 29 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+🌆 Daytime                465 commits         █████████░░░░░░░░░░░░░░░░   36.93 % 
+🌃 Evening                518 commits         ██████████░░░░░░░░░░░░░░░   41.14 % 
+🌙 Night                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Tuesday                  194 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Wednesday                205 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Thursday                 155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Friday                   222 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Saturday                 249 commits         █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Sunday                   75 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -66,7 +104,7 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2026 04:13:21 UTC
+ Last Updated on 25/05/2026 04:22:20 UTC
 <!--END_SECTION:waka-->
 
 ### Watch my contribution graph get eaten by the snake 🐍
