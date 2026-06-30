@@ -14,7 +14,7 @@
 
 - 🏢 **SDE II @ American Express** — building across web, AI, and dev tooling
 - 🤖 Exploring **agentic workflows** and AI-native development
-- 🏠 **Self-hosting** at home — Docker, Mem0, Firecrawl, the usual homelab
+- 🏠 **Self-hosting** at home on Pop!_OS — Docker + Tailscale, running mem0, Firecrawl, Glance, Dockge, NPM, SillyTavern, Cockpit
 - ✍️ Writing at [imsudip.in/blog](https://imsudip.in/blog)
 
 ## Stack
@@ -26,19 +26,6 @@
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%2027%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 30/06/2026 12:15:39 UTC
 <!--END_SECTION:waka-->
 
 <picture>
