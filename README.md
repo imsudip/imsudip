@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sudip</h1>
-<h4 align="center">a developer an also a student at Jadavpur University, see my <a href="[https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf](https://drive.google.com/file/d/1myckpQvEluq-6e7x4cK06Dj2dcwXp27J/view?usp=sharing)" target="_blank">resume</a> for more</h4>
+<h4 align="center">Software Engineer at <a href="https://www.americanexpress.com" target="_blank">American Express</a> · building across <b>web</b>, <b>AI</b>, and dev tooling — <a href="https://imsudip.in" target="_blank">portfolio</a> · <a href="https://drive.google.com/file/d/1myckpQvEluq-6e7x4cK06Dj2dcwXp27J/view?usp=sharing" target="_blank">resume</a></h4>
   <img align="center"
          src="https://profile-counter.glitch.me/imsudip/count.svg"
          alt="Visitor" height="30"/>
@@ -12,27 +12,25 @@
 
 ## About me
 
-- 🔭 I’m currently exploring LLMs/LFMs, Vector Databases.
-- 🌱 I’m currently learning AI/ML and Web Frameworks (NEXTjs).
-<!-- - 👯 I’m trying to maintain a streak on [Leetcode](https://leetcode.com/sudipghosh9333/). -->
-- 💬 Ask me about Flutter and Dart.
+- 💼 SDE II @ American Express — building across web, AI, and developer tooling.
+- 🤖 Exploring agentic workflows, AI-native development, and coding agents.
+- 🏠 Self-hosting at home — Docker, Mem0, Firecrawl, the usual homelab.
+- 💬 Ask me about Next.js, TypeScript, or AI tooling.
 
 <details>
   <summary>☎️ How to reach me</summary>
 <div>
   <samp>
-    <h2 align="center"></h2>
     <p align="center">
-      <br/>
       <a href="https://www.linkedin.com/in/imsudip/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="LinkedIn" height="30"/></a>
       <a href="mailto:sudipghosh9333@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
-         <a href="https://wa.me/+917908646141" target="blank"><img align="center"
+         alt="Gmail" height="30"/></a>
+      <a href="https://wa.me/+917908646141" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="WhatsApp" height="30"/></a>
     </p>
   </samp>
 </div>
