@@ -1,5 +1,8 @@
 <div align="center">
 
+ <img  height="300" alt="GettyImages-138363012" src="https://github.com/user-attachments/assets/c59c3f41-e272-41c5-a96a-5c2badf549b0" />
+
+
 # Sudip Ghosh
 
 **Software Engineer @ [American Express](https://www.americanexpress.com)** — building across web, AI, and developer tooling.
