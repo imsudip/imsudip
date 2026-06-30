@@ -1,114 +1,32 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Sudip</h1>
-<h4 align="center">Software Engineer at <a href="https://www.americanexpress.com" target="_blank">American Express</a> · building across <b>web</b>, <b>AI</b>, and dev tooling — <a href="https://imsudip.in" target="_blank">portfolio</a> · <a href="https://drive.google.com/file/d/1myckpQvEluq-6e7x4cK06Dj2dcwXp27J/view?usp=sharing" target="_blank">resume</a></h4>
-  <img align="center"
-         src="https://profile-counter.glitch.me/imsudip/count.svg"
-         alt="Visitor" height="30"/>
+
+# Sudip Ghosh
+
+**Software Engineer @ [American Express](https://www.americanexpress.com)** — building across web, AI, and developer tooling.
+
+[Portfolio](https://imsudip.in) · [LinkedIn](https://www.linkedin.com/in/imsudip) · [Email](mailto:sudipghosh9333@gmail.com) · [GitHub](https://github.com/imsudip)
+
 </div>
 
-<br>
+---
 
-[![@imsudip's Holopin board](https://holopin.me/imsudip)](https://holopin.io/@imsudip)
+## Currently
 
-## About me
+- 🏢 **SDE II @ American Express** — building across web, AI, and dev tooling
+- 🤖 Exploring **agentic workflows** and AI-native development
+- 🏠 **Self-hosting** at home — Docker, Mem0, Firecrawl, the usual homelab
+- ✍️ Writing at [imsudip.in/blog](https://imsudip.in/blog)
 
-- 💼 SDE II @ American Express — building across web, AI, and developer tooling.
-- 🤖 Exploring agentic workflows, AI-native development, and coding agents.
-- 🏠 Self-hosting at home — Docker, Mem0, Firecrawl, the usual homelab.
-- 💬 Ask me about Next.js, TypeScript, or AI tooling.
+## Stack
 
-<details>
-  <summary>☎️ How to reach me</summary>
-<div>
-  <samp>
-    <p align="center">
-      <a href="https://www.linkedin.com/in/imsudip/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="LinkedIn" height="30"/></a>
-      <a href="mailto:sudipghosh9333@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Gmail" height="30"/></a>
-      <a href="https://wa.me/+917908646141" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="WhatsApp" height="30"/></a>
-    </p>
-  </samp>
-</div>
-</details>
+<p>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,prisma,bun,docker,python,flutter,dart" alt="Stack" /></a>
+</p>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%2027%20mins-blue?style=flat)
+## Activity
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.27%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 236.3 kB Used in GitHub's Storage 
- > 
-> 🏆 57 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 62 Public Repositories 
- > 
-> 🔑 31 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-🌆 Daytime                484 commits         █████████░░░░░░░░░░░░░░░░   37.12 % 
-🌃 Evening                530 commits         ██████████░░░░░░░░░░░░░░░   40.64 % 
-🌙 Night                  185 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Tuesday                  198 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Wednesday                205 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Thursday                 174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Friday                   222 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Saturday                 252 commits         █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-Sunday                   76 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Dart** 
-
-```text
-HTML                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-TypeScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-ShaderLab                1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-```
-
-
-
-
- Last Updated on 29/06/2026 04:42:24 UTC
-<!--END_SECTION:waka-->
-
-### Watch my contribution graph get eaten by the snake 🐍
-
-<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-
-![imsudip snake gif](https://github.com/imsudip/imsudip/blob/output/github-contribution-grid-snake.svg)
-
-### Show some ❤️ by starring some of the repositories!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imsudip/imsudip/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imsudip/imsudip/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/imsudip/imsudip/output/github-contribution-grid-snake.svg" />
+</picture>
