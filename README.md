@@ -13,8 +13,8 @@
 ## Currently
 
 - 🏢 **SDE II @ American Express** — building across web, AI, and dev tooling
-- 🤖 Exploring **agentic workflows** and AI-native development
-- 🏠 **Self-hosting** at home on Pop!_OS — Docker + Tailscale, running mem0, Firecrawl, Glance, Dockge, NPM, SillyTavern, Cockpit
+- 🤖 Exploring **agentic workflows** and AI-native development, Opencode, OMO, Hermes, OpenClaw
+- 🏠 **Self-hosting** at home on Pop!_OS — Docker + Tailscale, Glance, Dockge, NPM, Cockpit
 - ✍️ Writing at [imsudip.in/blog](https://imsudip.in/blog)
 
 ## Stack
