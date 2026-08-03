@@ -29,7 +29,9 @@
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-653%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%2034%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%2040%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -40,8 +42,14 @@
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 03:38:55 UTC
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 03/08/2026 03:31:10 UTC
 <!--END_SECTION:waka-->
 
 <picture>
