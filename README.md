@@ -29,7 +29,7 @@
 ## Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2037%20mins-blue?style=flat)
 
@@ -39,37 +39,17 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-Other                    20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
-Text                     16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Markdown                 14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+JSON                     3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 18 mins (85.86%)
-
-✍️ 1,194 lines written by AI, 158 lines written by hand (88.31% AI-written)
-
-🔤 925,033 Input Tokens, 2,886 Output Tokens
-
-💵 $2.82 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 16 AI Prompts
-
-Github-Copilot           1,194 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 88.31% of written lines came from AI
-📝 Concise Prompter — average 114 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 11.82% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 31/08/2026 04:54:02 UTC
+ Last Updated on 07/09/2026 03:58:37 UTC
 <!--END_SECTION:waka-->
 
 <picture>
